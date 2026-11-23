@@ -18,7 +18,6 @@
 - Plash
 - Phoenix
 - A/B Street
-- Web Clipper
 - percollate
 
 ## Archived:
@@ -43,4 +42,5 @@ _None_
 - MindForger (Moved to: https://github.com/dvorka/mindforger)
 - novelWriter (Moved to: https://github.com/saga-soft/novelWriter)
 - Rclone UI (Moved to: https://github.com/rclone/rclone-ui)
+- SpotiFLAC (Moved to: https://github.com/spotbye/Flacora)
 - Quill Transcription (Moved to: https://github.com/humanitas-labs/quill)
